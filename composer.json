@@ -11,7 +11,7 @@
         "symfony/symfony": "2.*"
     },
     "autoload":     {
-        "psr-0": { "Nmalo\\DompdfBundle": "" }
+        "psr-0": { "Slik\\DompdfBundle": "" }
     },
-    "target-dir": "Nmalo/DompdfBundle"
+    "target-dir": "Slik/DompdfBundle"
 }
